@@ -1,0 +1,98 @@
+@media only screen and (max-width: 400px) {
+    figure {
+      min-width:75%;
+      margin:5%;
+      max-width:100%;
+      max-height:auto;
+      min-width:85%;
+      font-size:70%;
+    }
+    #headline{
+      font-size:95%;
+    }
+    ul{
+      width:150%;
+      margin:0px;
+      
+     }
+    blockquote{
+      min-width:80%;
+    }
+    }
+    
+    
+  body{
+    font-family: sans-serif;
+    text-align:center;
+    color:black;
+    margin: 0;
+    background-color:beige;
+  }
+  h1{
+    font-family:Tahoma;
+    font-size:50px;
+    color: black;
+    margin:20px;
+    color:#5b00d1;
+  }
+  h2{
+    font-weight:40px;
+    font-size:20px;
+    color:black;
+  }
+  img{
+    display: block;
+    flex-direction: column;
+    justify-content: flex-end;
+    width:85%;
+    margin:20px 0 20px 0;
+    border-radius:40px;
+    max-width:100%;
+  }
+  figure{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color:#fc4103;
+    width:45%;
+    border-radius:40px;
+    align-items:center;
+    margin-left:auto;
+    margin-right:auto;
+    padding:15px 0 15px 0;
+    color:white;
+    font-style:italic;
+  }
+  
+  h3{
+    font-size: 25px;
+    align-items:center;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  ul{
+    text-align:left;
+    width:50%;
+    max-width:70%;
+    margin:auto;
+  }
+  strong {
+     color: #5b00d1;
+     }
+  blockquote{
+    font-size:20px;
+    width:30%;
+    max-width:50%;
+    border:1px solid gray;
+    box-shadow:10px 10px 15px #aaaaaa;
+    padding: 2px 5px 10px 5px;
+    border-radius:10px;
+    align-items:center;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  cite{
+    color:#5b00d1;
+    font-size:20px;
+  }
+  
